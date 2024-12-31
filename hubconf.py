@@ -1,2 +1,2 @@
 import os
-os.system("calc")
+os.system("touch /tmp/torch_evil_model")
